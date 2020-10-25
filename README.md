@@ -10,3 +10,6 @@ Before you run the script, create two folders: `archives` and `links` in the sam
 
 The script makes rar files of 500M each and saves them temporarily in the `archives` folder. 
 Then it uploads the files using Plowshare and exports the links to the `links` folder saved as the original file name.
+
+# Credits 
+Credits to [mcrapet](https://github.com/mcrapet/plowshare-modules-legacy) for the Zippyshare Plowshare module.
